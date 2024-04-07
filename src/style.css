@@ -11,9 +11,10 @@ span{
     color: red; 
   }
   .textos {
-    font-size: 35px;
+    font-size: 70px;
   }
 
-  #topCard{
-    font-size: 50px;
-  }
+
+#bottomCard{
+  transform: rotate(180deg);
+}
