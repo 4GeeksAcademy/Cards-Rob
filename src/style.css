@@ -1,1 +1,19 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+span{
+    width: 33%;
+}
+.cardIcon {
+    font-size: 5rem; 
+    color: black; 
+  }
+  
+  .text-body-danger {
+    color: red; 
+  }
+  .textos {
+    font-size: 35px;
+  }
+
+  #topCard{
+    font-size: 50px;
+  }
