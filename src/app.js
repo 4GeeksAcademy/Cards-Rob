@@ -16,8 +16,8 @@ window.onload = function () {
       return array[Math.floor(Math.random() * array.length)]; 
     };
 
-    const randomIcon = randomCardValue(icons); // Generar un único icono aleatorio
-
+    const randomIcon = randomCardValue(icons); 
+    
     const cardRandomNumber = document.querySelector('#middleCard');
     cardRandomNumber.innerHTML = randomCardValue(values);
 
